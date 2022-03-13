@@ -37,3 +37,4 @@ if (amount > 0 && amount <= balance) {
     updateTotal('withdraw-total', amount);
     updateBalance(amount, false)
 } */
+
